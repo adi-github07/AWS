@@ -1,3 +1,13 @@
+# Re-added for CodeBuild
+# version: 0.2
+
+# phases:
+#   install:
+#     commands:
+#       - echo Installing...
+# ...
+
+
 version: 0.2
 
 phases:
